@@ -15,6 +15,10 @@
 echo "Checking for newer files online first"
 git pull
 
+rm al-beautyline/icon-theme.cache
+rm al-candy-icons/icon-theme.cache
+rm arcolinux-candy-beauty/icon-theme.cache
+
 # Below command will backup everything inside the project folder
 git add --all .
 
