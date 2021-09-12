@@ -15,6 +15,10 @@
 echo "Checking for newer files online first"
 git pull
 
+sh icon-cache-maker.sh
+
+sleep 3
+
 rm al-beautyline/icon-theme.cache
 rm al-candy-icons/icon-theme.cache
 rm arcolinux-candy-beauty/icon-theme.cache
