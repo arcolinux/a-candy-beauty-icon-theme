@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Gravit.io -->
+<svg width="48pt" height="48pt" style="isolation:isolate" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="_lgradient_6" x2="1" y1=".5" y2=".5" gradientTransform="matrix(44,0,0,45,2,1)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f237ef" offset="0"/>
+  <stop stop-color="#fc5252" offset=".98696"/>
+ </linearGradient>
+ <path d="m39.709 7.121-21.709 21.709v2.4l2.92-0.98 21.544-21.544c1.952-1.952 3.536-1.296 3.536 1.464v30.83c0 2.76-2.24 5-5 5h-34c-2.76 0-5-2.24-5-5v-34c0-2.76 2.24-5 5-5h21c1.104 0 2 0.896 2 2s-0.896 2-2 2h-19c-1.656 0-3 1.344-3 3v30c0 1.656 1.344 3 3 3h30c1.656 0 3-1.344 3-3v-23.17c0-0.552-0.317-0.683-0.707-0.293l-16.799 16.799c-0.78 0.78-2.264 1.697-3.312 2.045l-5.284 1.758c-1.048 0.348-1.898-0.265-1.898-1.369v-5.6c0-1.104 0.634-2.634 1.414-3.414l22.635-22.635c1.17-1.17 2.493-1.225 2.951-0.121s-0.121 2.951-1.291 4.121z" fill="url(#_lgradient_6)"/>
+</svg>
