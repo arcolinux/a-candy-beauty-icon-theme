@@ -17,7 +17,7 @@ git pull
 
 sh icon-cache-maker.sh
 
-sleep 3
+sleep 2
 
 echo "remove icon cache"
 rm -v al-beautyline/icon-theme.cache
