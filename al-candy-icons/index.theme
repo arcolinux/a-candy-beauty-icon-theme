@@ -5,7 +5,7 @@ Inherits=Surfn-Arc,Surfn,Sardi-Flat,Numix-Circle,Numix,Papirus,Moka,breeze,gnome
 Hidden=true
 
 # Directory list
-Directories=actions/scalable,places/16,places/48,apps/scalable,devices/scalable,mimetypes/scalable
+Directories=apps/scalable,devices/scalable,places/16,places/48,preferences/scalable
 Example=folder
 DisplayDepth=32
 
@@ -26,21 +26,6 @@ DialogSizes=16,22,32,48,64,128,256
 
 KDE-Extensions=.svg
 
-[devices/scalable]
-Context=Devices
-Size=64
-MinSize=8
-MaxSize=192
-Type=Scalable
-
-[actions/scalable]
-Context=Actions
-Size=22
-MinSize=8
-MaxSize=192
-Type=Scalable
-
-
 [apps/scalable]
 Size=96
 Context=Applications
@@ -48,11 +33,11 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[mimetypes/scalable]
-Context=MimeTypes
-Size=96
+[devices/scalable]
+Context=Devices
+Size=64
 MinSize=8
-MaxSize=512
+MaxSize=192
 Type=Scalable
 
 [places/16]
@@ -62,7 +47,6 @@ MinSize=8
 MaxSize=32
 Type=Scalable
 
-
 [places/48]
 Size=48
 Context=Places
@@ -70,3 +54,9 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[preferences/scalable]
+Size=96
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
