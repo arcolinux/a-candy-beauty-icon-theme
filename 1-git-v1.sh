@@ -19,9 +19,10 @@ sh icon-cache-maker.sh
 
 sleep 3
 
-rm al-beautyline/icon-theme.cache
-rm al-candy-icons/icon-theme.cache
-rm arcolinux-candy-beauty/icon-theme.cache
+echo "remove icon cache"
+rm -v al-beautyline/icon-theme.cache
+rm -v al-candy-icons/icon-theme.cache
+rm -v arcolinux-candy-beauty/icon-theme.cache
 
 # Below command will backup everything inside the project folder
 git add --all .
