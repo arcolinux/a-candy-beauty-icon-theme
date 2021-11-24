@@ -6,6 +6,6 @@
 
 ### in some of the distributions you will a message popup if an icon theme has no cache
 ### if you have changed the icons - deleted folders etcetera then run this script
-gtk-update-icon-cache -f al-beautyline
-gtk-update-icon-cache -f al-candy-icons
-gtk-update-icon-cache -f arcolinux-candy-beauty
+gtk-update-icon-cache -f usr/share/icons/al-beautyline
+gtk-update-icon-cache -f usr/share/icons/al-candy-icons
+gtk-update-icon-cache -f usr/share/icons/arcolinux-candy-beauty
