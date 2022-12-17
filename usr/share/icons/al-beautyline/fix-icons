@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "run this after a copy/paste and skip"
+rm /home/erik/.icons/al-beautyline/devices/scalable/network-wired.svg
+rm /home/erik/.icons/al-beautyline/devices/scalable/network-wired-unavailable.svg
+rm /home/erik/.icons/al-beautyline/devices/scalable/network-rj11-female.svg
+rm /home/erik/.icons/al-beautyline/devices/scalable/network-rj45-female.svg
+rm /home/erik/.icons/al-beautyline/devices/scalable/nm-device-wired.svg
+rm /home/erik/.icons/al-beautyline/devices/scalable/nm-device-wireless.svg
+rm /home/erik/.icons/al-beautyline/devices/scalable/nm-signal*
+rm /home/erik/.icons/al-beautyline/devices/scalable/nm-nm-signal*
+rm /home/erik/.icons/al-beautyline/apps/scalable/nm-device-wireless.svg
+
+rm /home/erik/.icons/al-beautyline/actions/scalable/audio-output*
+rm /home/erik/.icons/al-beautyline/actions/scalable/audio-volume*
