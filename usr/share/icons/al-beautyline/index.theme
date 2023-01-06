@@ -5,8 +5,8 @@ Inherits=al-candy-icons
 Hidden=true
 
 # Directory list
-Directories=actions/scalable,apps/16,apps/scalable,devices/scalable,mimetypes/scalable,panel/16,places/16,places/48,status/16,status/22
-ScaledDirectories=apps/16@2x,apps/16@3x,panel/16@2x,panel/16@3x,places/16@2x,places/16@3x,status/22@2x,status/22@3x
+Directories=actions/scalable,apps/16,apps/22,apps/scalable,devices/scalable,mimetypes/scalable,panel/16,panel/22,places/16,places/48,status/16,status/22
+ScaledDirectories=apps/16@2x,apps/16@3x,apps/22@2x,apps/22@3x,panel/16@2x,panel/16@3x,panel/22@2x,panel/22@3x,places/16@2x,places/16@3x,status/22@2x,status/22@3x
 Example=folder
 DisplayDepth=32
 
@@ -51,6 +51,23 @@ Scale=3
 Context=Applications
 Type=Fixed
 
+[apps/22]
+Size=22
+Context=Applications
+Type=Fixed
+
+[apps/22@2x]
+Size=22
+Scale=2
+Context=Applications
+Type=Fixed
+
+[apps/22@3x]
+Size=22
+Scale=3
+Context=Applications
+Type=Fixed
+
 [apps/scalable]
 Size=96
 Context=Applications
@@ -85,6 +102,23 @@ Type=Fixed
 
 [panel/16@3x]
 Size=16
+Scale=3
+Context=Panel
+Type=Fixed
+
+[panel/22]
+Size=22
+Context=Panel
+Type=Fixed
+
+[panel/22@2x]
+Size=22
+Scale=2
+Context=Panel
+Type=Fixed
+
+[panel/22@3x]
+Size=22
 Scale=3
 Context=Panel
 Type=Fixed
