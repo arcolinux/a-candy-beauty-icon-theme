@@ -9,3 +9,7 @@
 gtk-update-icon-cache -f usr/share/icons/al-beautyline
 gtk-update-icon-cache -f usr/share/icons/al-candy-icons
 gtk-update-icon-cache -f usr/share/icons/arcolinux-candy-beauty
+
+rm -v usr/share/icons/al-beautyline/icon-theme.cache
+rm -v usr/share/icons/al-candy-icons/icon-theme.cache
+rm -v usr/share/icons/arcolinux-candy-beauty/icon-theme.cache

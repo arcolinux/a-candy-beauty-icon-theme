@@ -37,6 +37,8 @@ git pull
 # Below command will backup everything inside the project folder
 git add --all .
 
+sh icon-cache-maker.sh
+
 # Give a comment to the commit if you want
 echo "####################################"
 echo "Write your commit comment!"
