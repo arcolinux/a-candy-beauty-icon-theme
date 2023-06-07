@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=al-beautyLine
-Comment=Beautyline icons restyled for ArcoLinux
+Comment=Beautyline icons restyled
 Inherits=al-candy-icons
 Hidden=true
 

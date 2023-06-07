@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=al-candy-icons
-Comment=Candy icons restyled for ArcoLinux
+Comment=Candy icons restyled
 Inherits=Surfn-Arc,Surfn,breeze,gnome,hicolor
 Hidden=true
 
