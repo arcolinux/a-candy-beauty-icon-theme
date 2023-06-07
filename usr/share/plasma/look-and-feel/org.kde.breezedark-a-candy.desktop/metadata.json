@@ -3,12 +3,12 @@
         "Authors": [
             {
                 "Email": "erik.dubois@gmail.com",
-                "Name": "KDE Visual Design Group & ArcoLinux"
+                "Name": "KDE Visual Design Group"
             }
         ],
         "Category": "",
         "Description": "Candy Plasma Dark",
-        "Id": "org.kde.breezedark-arcolinux-candy.desktop",
+        "Id": "org.kde.breezedark-a-candy.desktop",
         "License": "GPLv2+",
         "Name": "Candy Plasma Dark",
         "ServiceTypes": [
