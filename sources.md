@@ -5,13 +5,15 @@ Beautyline
 
 https://www.opendesktop.org/p/1425426/
 
-BeautyLine-20210930144632.tar.gz V1.2
+Beautyline.tar.gz v1.8
+BeautyLine-20210930144632.tar.gz v1.2
 
 
 Candy
 
 https://www.pling.com/p/1305251/
 
+candy-icons.tar.xz	2023.06.01
 candy-icons.tar.xz	0.3.3
 
 
