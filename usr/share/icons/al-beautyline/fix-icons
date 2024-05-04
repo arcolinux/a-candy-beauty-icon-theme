@@ -13,7 +13,7 @@ rm $path/devices/scalable/nm-device-wireless.svg
 rm $path/devices/scalable/nm-signal*
 rm $path/devices/scalable/nm-nm-signal*
 rm $path/apps/scalable/nm-device-wireless.svg
-
+rm $path/actions/scalable/clipman.svg
 rm $path/actions/scalable/audio-output*
 rm $path/actions/scalable/audio-volume*
 
